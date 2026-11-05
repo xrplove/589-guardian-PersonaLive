@@ -1,4 +1,4 @@
-torch==2.1.0
+torch==2.13.0
 torchvision==0.16.0
 accelerate==1.12.0
 av # if there is a error when you install av, try to use "av" instead of "av==11.0.0"
